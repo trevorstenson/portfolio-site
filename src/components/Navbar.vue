@@ -35,7 +35,7 @@ export default {
   },
   methods: {
     handleScroll() {
-      if (window.scrollY > 40) {
+      if (window.scrollY > 20) {
         this.changeNavBackground = true;
       } else {
         this.changeNavBackground = false;

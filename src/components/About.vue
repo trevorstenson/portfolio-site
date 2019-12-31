@@ -6,10 +6,10 @@
         at Northeastern University in Boston, MA.
         <br/><br/>
         I am passionate about creating rich web based applications with modern 
-        front-end and back-end technologies such as Vue, React, Express, and .NET Core.
+        front-end and back-end technologies such as Vue, React, .NET Core, and JavaScript.
         <br/><br/>
-        During my free time I enjoy all things downhill skiing, biking, 
-        collecting unique watches, and cooking new foods.
+        During my free time I enjoy all things juggling, downhill skiing, 
+        biking, collecting unique watches, and cooking new foods.
       </p>
   </div>
 </template>
