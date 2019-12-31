@@ -1,0 +1,37 @@
+body {
+    background-color: #88BDBC;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.lowertitle {
+  padding-top: 60px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+  font-size: 48px;
+  font-weight: 500;
+  color: #eefceb;
+  background-image: linear-gradient(#e98074, #e98074), linear-gradient(transparent, transparent);
+  background-size: 4.3em 3px, auto;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #eefceb;
+  margin: 1em 0;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+::selection {
+    background: #eccfb7; /* WebKit/Blink Browsers */
+  }
+::-moz-selection {
+    background: #eccfb7; /* Gecko Browsers */
+}
