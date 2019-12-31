@@ -28,16 +28,16 @@ export default {
             'Created with React and Firebase',
             'One hundred monthly active users and 500 monthly visitors.'
           ],
-          link: "#"
+          link: "https://skilldex.org/"
         },
         {
-          title: "Hawking",
+          title: "Hawking", 
           description: "Chrome extension that allows users to control their browser through gestures and movement with smartphones.",
           bullets: [
             'Developed using VueJS, SocketIO, and Express', 
             'Created with the goal of improving internet accessibility'
           ],
-          link: "#"
+          link: "https://github.com/AbiliTeam/Hawking"
         }
       ]
     }

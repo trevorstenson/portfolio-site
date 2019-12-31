@@ -70,6 +70,7 @@ export default {
 }
 
 .proj-link {
+  color: #eefceb;
   text-decoration: none;
   position: absolute;
   bottom: 0;
