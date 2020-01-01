@@ -1,14 +1,21 @@
 <template>
   <div id="outernav" v-bind:class="[changeNavBackground ? 'changed' : 'initial']">
-    <div id="name">
-      trevorstenson.dev
-    </div>
+      <a href="#" v-scroll-to="{
+        el: '#app',
+        offset: -100
+        }" id="name-link">
+        <div id="name">trevorstenson.dev</div>
+      </a>
     <div id="buttons">
       <a href="#" v-scroll-to="'#outernav'" class="btn">Home</a>
       <a href="#" v-scroll-to="{
         el: '#about',
         offset: -30
       }" class="btn">About</a>
+      <a href="#" v-scroll-to="{
+        el: '#experience',
+        offset: -30
+      }" class="btn">Experience</a>
       <a href="#" v-scroll-to="{
         el: '#projects',
         offset: -30
@@ -75,6 +82,11 @@ export default {
   box-shadow: 0 4px 10px -2px rgba(0,0,0,.2);
 }
 
+#name-link {
+  text-decoration: none;
+  color: #eefceb;
+}
+
 #name {
   float: left;
   padding: 0px 20px;
@@ -108,7 +120,7 @@ export default {
   background-size: 100% 3px, auto;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 960px) {
   #buttons {
     display: none;
   }

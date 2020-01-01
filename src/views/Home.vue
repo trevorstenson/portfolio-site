@@ -7,6 +7,7 @@
         <img id="skyline" src="../assets/img/blue-boston-skyline.png" alt="Boston Skyline"/>
         <div id="darkness">
             <About/>
+            <Experience/>
             <Projects/>
             <Skills/>
             <Contact/>
@@ -20,6 +21,7 @@
 
 import Navbar from '../components/Navbar.vue'
 import Media from '../components/Media.vue'
+import Experience from '../components/Experience.vue'
 import Projects from '../components/Projects.vue'
 import Skills from '../components/Skills.vue'
 import About from '../components/About.vue'
@@ -29,7 +31,7 @@ import Footer from '../components/Footer.vue'
 export default {
   name: "Home",
   components: {
-      Navbar, Media, Projects, Skills, About, Contact, Footer
+      Navbar, Media, Experience, Projects, Skills, About, Contact, Footer
   }
 };
 </script>

@@ -3,7 +3,8 @@
       <div class="lowertitle">About Me</div>
       <p class="content">
         My name is Trevor Stenson and I am currently a third year computer science major 
-        at Northeastern University in Boston, MA.
+        at Northeastern University in Boston, MA. I am currently looking for software development 
+        co-op opportunities from May through December 2020.
         <br/><br/>
         I am passionate about creating rich web based applications with modern 
         front-end and back-end technologies such as Vue, React, .NET Core, and JavaScript.
@@ -24,10 +25,10 @@ export default {
 <style scoped>
 .content {
   color: #eefceb;
-  font-size: 32px;
+  font-size: 26px;
   word-spacing: 2px;
   line-height: 50px;
-  padding: 0px 5%;
+  padding: 0px 10%;
 }
 
 @media screen and (max-width: 800px) {
