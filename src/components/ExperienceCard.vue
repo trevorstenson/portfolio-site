@@ -86,6 +86,11 @@ export default {
   font-size: 16px;
   font-style: italic;
   text-align: center;
+  align-content: center;  
+}
+
+.bullets {
+  padding-left: 20px;
 }
 
 .timeframe {
