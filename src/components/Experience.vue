@@ -32,8 +32,8 @@ export default {
           description: "Digital agency focused on custom web development, mobile applications, and consulting for B2B clients.",
           bullets: [
             "Developed custom backend and frontend web features for multiple agency clients",
-            "Rewrote legacy code into modern MVC components for large-scale websites",
-            "Worked closely with clients and QA during the development process to ensure successful issue resolution",
+            "Rewrote legacy code into modern MVC components for large content-driven",
+            "Worked closely with clients and QA during the development process to ensure successful issue resolution and progress",
             "Tools: C#, JavaScript, SQL, jQuery"
           ],
           timeframe: "May 2019 - December 2019, Boston, MA"
