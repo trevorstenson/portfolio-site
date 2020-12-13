@@ -5,17 +5,22 @@
     <div id="skillinfo">
       These are the skills I have picked up through both professional experience and personal projects.
     </div>
+    <i class="skill devicon-rails-plain"></i>
+    <i class="skill devicon-ruby-plain"></i>
+    <i class="skill devicon-react-original-wordmark"></i>
     <i class="skill devicon-vuejs-plain-wordmark"></i>
     <i class="skill devicon-csharp-line"></i>
+    <br/>
+    
     <i class="skill devicon-javascript-plain"></i>
-    <i class="skill devicon-react-original-wordmark"></i>
+    <i class="skill devicon-python-plain"></i>
     <i class="skill devicon-java-plain-wordmark"></i>
     <i class="skill devicon-nodejs-plain-wordmark"></i>
-    <br/>
     <i class="skill devicon-express-original"></i>
-    <i class="skill devicon-python-plain"></i>
+    <br/>
     <i class="skill devicon-html5-plain-wordmark"></i>
     <i class="skill devicon-css3-plain-wordmark"></i>
+    <i class="skill devicon-postgresql-plain"></i>
     <i class="skill devicon-mysql-plain"></i>
     <i class="skill devicon-git-plain"></i>
   </div>

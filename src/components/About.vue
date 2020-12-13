@@ -2,12 +2,12 @@
   <div id="about">
       <div class="lowertitle">About Me</div>
       <p class="content">
-        My name is Trevor Stenson and I am currently a third year computer science major 
-        at Northeastern University in Boston, MA. I am currently looking for software development 
-        co-op opportunities from May through December 2020.
+        My name is Trevor Stenson and I am currently a fourth year computer science major 
+        at Northeastern University in Boston, MA. I am currently looking for full-time software development 
+        opportunities starting in May 2021.
         <br/><br/>
         I am passionate about creating rich web based applications with modern 
-        front-end and back-end technologies such as Vue, React, .NET Core, and JavaScript.
+        front-end and back-end technologies such as Vue, React, Ruby on Rails, .NET Core, and JavaScript.
         <br/><br/>
         During my free time I enjoy all things juggling, downhill skiing, 
         biking, collecting unique watches, and cooking new foods.

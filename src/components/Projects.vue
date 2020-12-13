@@ -22,6 +22,15 @@ export default {
     return {
       projects: [
         {
+          title: "Sendcard.us",
+          description: "Send a custom postcard anywhere in the US.",
+          bullets: [
+            "Web app that allows users to quickly buy and send a no-frills postcard to any US address.",
+            "Made with Svelte, Firebase/GCP, and Stripe"
+          ],
+          link: "https://sendcard.us/"
+        },
+        {
           title: "Skilldex",
           description: "Web-based user curated library of juggling patterns that includes progress tracking and statistics.",
           bullets: [

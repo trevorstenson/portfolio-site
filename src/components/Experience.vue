@@ -14,6 +14,7 @@
 
 <script>
 import ExperienceCard from './ExperienceCard.vue'
+import sl_logo from '../assets/img/sl_logo.png'
 import rp2 from '../assets/img/rp2.png'
 
 export default {
@@ -24,6 +25,19 @@ export default {
   data () {
     return {
       experience: [
+        {
+          companyTitle: "SMARTLEAF",
+          companyLogo: sl_logo,
+          companyLink: "https://www.smartleaf.com/",
+          position: "Full Stack Engineer Co-op",
+          description: "Automated financial portfolio management and investment engine for wealth managers.",
+           bullets: [
+             "Architect and develop new api endpoints currently used by client firms for granular customization of portfolio targets for more than 500,000 accounts",
+             "Create interactive modern React UI for streamlined batch management of portfolios",
+             "Implement features throughout the Ruby on Rails backend to improve the efficiency of our internal logic and create better workflows for users"
+           ],
+           timeframe: "May 2020 - Present, Boston, MA"
+        },
         {
           companyTitle: "RIGHTPOINT",
           companyLogo: rp2,
